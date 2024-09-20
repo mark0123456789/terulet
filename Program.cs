@@ -8,8 +8,17 @@ namespace terület
 {
     internal class Program
     {
+        static void terulet() 
+        {
+            Console.WriteLine("Téglalap területének számítása");
+
+            int a;
+            int b;
+
+        }
         static void Main(string[] args)
         {
+            terulet();
         }
     }
 }

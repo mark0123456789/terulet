@@ -1,0 +1,7 @@
+C:\Users\piringerm\gitwork\terület\bin\Debug\terület.exe.config
+C:\Users\piringerm\gitwork\terület\bin\Debug\terület.exe
+C:\Users\piringerm\gitwork\terület\bin\Debug\terület.pdb
+C:\Users\piringerm\gitwork\terület\obj\Debug\terület.csproj.AssemblyReference.cache
+C:\Users\piringerm\gitwork\terület\obj\Debug\terület.csproj.CoreCompileInputs.cache
+C:\Users\piringerm\gitwork\terület\obj\Debug\terület.exe
+C:\Users\piringerm\gitwork\terület\obj\Debug\terület.pdb
